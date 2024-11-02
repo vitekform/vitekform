@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 ### Who I am?
-As i explained in my (https://github.com/vitekform)[**bio**] i am 14 years old boy studying at Gymnázium Pardubice Dašická 1083 and I am programming for fun and because i think it will be important profession in the future (hopefully😄)
+As i explained in my (**bio**)[https://github.com/vitekform] i am 14 years old boy studying at Gymnázium Pardubice Dašická 1083 and I am programming for fun and because i think it will be important profession in the future (hopefully😄)
 ### What Am I Working On?
 I am as of Date of last edit of this file, working on Minecraft Plugins for Site22 which is Minecraft SCP Roleplay server which you definitely visit! (https://discord.gg/AaguVw7vjB)[**Invite**]
 ### What Am I Learning?
