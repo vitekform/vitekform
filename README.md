@@ -24,4 +24,4 @@ I am learning Java specifically Paper API and JavaScript (so yeah I am also lear
 ### How To Reach Me?
 Try contacting me using my Discord: ganamaga or using my (mailto:admin@vitekform.cz)[E-Mail]
 ### Fun Fact
-Do you know how hard it is for developer focused on Java learn C#? No? Then remember my words once you forget that in C# you have to type ```csharp string x = "Hello World!";``` and not ```java String x = "Hello World!";```
+Do you know how hard it is for developer focused on Java learn C#? No? Then remember my words once you forget that in C# you have to type `string x = "Hello World!";` and not ` String x = "Hello World!";`
