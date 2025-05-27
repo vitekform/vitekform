@@ -18,10 +18,10 @@ Here are some ideas to get you started:
 ### Who I am?
 As i explained in my bio, I am 14 years old boy studying at Gymnázium Pardubice Dašická 1083, my name is Vít Formánek and I am programming for fun and because i think it will be important profession in the future (hopefully😄)
 ### What Am I Working On?
-I am as of Date of last edit of this file, working on Minecraft Plugins for Site22 which is Minecraft SCP Roleplay server which you definitely should visit! https://discord.gg/AaguVw7vjB
+I am as of Date of last edit of this file, working on RPGCore that you can check out at [rpg.ganamaga.me](https://rpg.ganamaga.me) and also you can find the builds at [blob.build](https://blob.build)
 ### What Am I Learning?
-I am learning Java specifically Paper API and JavaScript (so yeah I am also learning TypeScript :wow:)
+I am learning Java specifically Paper API and JavaScript (Node.JS and Vite + React) (and also TypeScript because of React Libraries).
 ### How To Reach Me?
-Try contacting me using my Discord: ganamaga or using my E-Mail (mailto:admin@vitekform.cz)
+Try contacting me using my Discord: ganamaga or using my E-Mail (mailto:vit.formanek.2022b@gypce.cz)
 ### Fun Fact
 Do you know how hard it is for developer focused on Java learn C#? No? Then remember my words once you forget that in C# you have to type `string x = "Hello World!";` and not ` String x = "Hello World!";`
